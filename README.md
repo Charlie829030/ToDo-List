@@ -43,9 +43,9 @@
 
 # To build a production version:
 
-$ node "file name"
+$ npm start
 
-$ run project on browser
+$ run project on browser React-App localhost:3000
 
 # Use Language and style:
 
