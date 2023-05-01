@@ -45,7 +45,7 @@
 
 $ npm start
 
-$ run project on browser React-App localhost:3000
+$ run project on browser React-App [http://localhost:3000](http://localhost:3000/)
 
 # Use Language and style:
 
